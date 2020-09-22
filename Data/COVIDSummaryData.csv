@@ -1,4 +1,4 @@
-﻿County,Sex,Age Range,Onset Date,Date Of Death,Admission Date,Case Count,Death Due to Illness Count,Hospitalized Count
+County,Sex,Age Range,Onset Date,Date Of Death,Admission Date,Case Count,Death Due to Illness Count,Hospitalized Count
 Adams,Female,0-19,4/28/2020,,,1,0,0
 Adams,Female,0-19,6/10/2020,,,1,0,0
 Adams,Female,0-19,6/19/2020,,,1,0,0
@@ -69534,4 +69534,3 @@ Wyandot,Male,80+,5/25/2020,6/12/2020,6/2/2020,1,1,1
 Wyandot,Male,80+,7/22/2020,,,2,0,0
 Wyandot,Male,80+,7/23/2020,8/11/2020,,1,1,0
 Wyandot,Male,80+,8/11/2020,,,2,0,0
-Grand Total,Total,Total,Total,Total,Total,"145,850","4,635","14,899"
